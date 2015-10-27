@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Datasets
 
 Hacks/Hackers Pakistan will now be freeing data sets on a regular basis from inside PDFs to a friendly csv format to help journalists work on data-driven stories.
