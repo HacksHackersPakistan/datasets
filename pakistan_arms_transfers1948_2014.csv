@@ -1,0 +1,423 @@
+s_no,supplier,status,number_ordered,order_data_status,weapon_designation,weapon_description,year_order_licence,year_order_data_status,years_delivered,number_delivered_produced,number_delivered_order_status,info
+1,Australia,recipient,45,confirmed,Mirage-3E,Fighter/ground attack (FGA) aircraft,1990,confirmed,1990-1991,45,Uncertain data/SIPRI estimate,Second-hand; $28 million deal; Mirage-3OA version; includes some Mirage-3OD; modernized in Pakistan after delivery; 5 more for for spares only
+2,Belarus,recipient,1920,Uncertain data/SIPRI estimate,9M119 Svir/AT-11,Anti-tank missile,1996,confirmed,1997-1999,1920,Uncertain data/SIPRI estimate,For T-80UD tank; status uncertain
+3,Brazil,recipient,100,confirmed,MAR-1,Anti-radar missile (ARM),2008,confirmed,2013-2014,45,confirmed,BRL111 m $100-126 million deal
+4,Canada,recipient,3,Uncertain data/SIPRI estimate,APS-504(V),Maritime patrol (MP) aircraft radar,1984,Uncertain data/SIPRI estimate,1986-1988,3,Uncertain data/SIPRI estimate,For 3 F-27 transport aircraft modified to F-27 Maritime MP aircraft in the Netherlands
+5,China,licenser,45,Uncertain data/SIPRI estimate,Type-83 122mm,Self-propelled multiple rocket launcher (MRL),1981,Uncertain data/SIPRI estimate,1982-1983,45,Uncertain data/SIPRI estimate,Pakistani designation Azar; designation and supplier uncertain; could be BM-11 from North Korea
+6,China,licenser,6,confirmed,K-8 Karakorum-8,Trainer/combat aircraft,1987,confirmed,1994,6,confirmed,Including some components produced in Pakistan and some assembled in Pakistan
+7,China,licenser,1000,Uncertain data/SIPRI estimate,HN-5A,Portable surface-to-air missile (SAM),1988,Uncertain data/SIPRI estimate,1989-1998,1000,Uncertain data/SIPRI estimate,Pakistani designation Anza-1
+8,China,licenser,55,Uncertain data/SIPRI estimate,M-11/CSS-7,Surface-to-surface missile (SSM),1988,Uncertain data/SIPRI estimate,1992-1994,55,Uncertain data/SIPRI estimate,Including assembly in Pakistan
+9,China,licenser,0,confirmed,Red Arrow-8,Anti-tank missile,1989,confirmed,1990-2014,22350,Uncertain data/SIPRI estimate,Pakistani designation Baktar Shikan; no confirmation on how many were ordered
+10,China,licenser,268,Uncertain data/SIPRI estimate,Type-85-IIM,Tank,1990,confirmed,1992-1996,268,confirmed,Type-85-IIAP version; including assembly from kits and production in Pakistan
+11,China,licenser,0,confirmed,QW-1 Vanguard,Portable surface-to-air missile (SAM),1993,Uncertain data/SIPRI estimate,1994-2014,1850,Uncertain data/SIPRI estimate,Pakistani designation Anza-2; no confirmaiton on how many were ordered
+12,China,licenser,65,Uncertain data/SIPRI estimate,W-653/Type-653,Armoured recovery vehicle (ARV),1994,Uncertain data/SIPRI estimate,1995-2000,65,Uncertain data/SIPRI estimate,Including assembly/production in Pakistan; Pakistani designation ARV-W653
+13,China,licenser,500,Uncertain data/SIPRI estimate,Type-90-2/MBT-2000,Tank,1998,Uncertain data/SIPRI estimate,2001-2014,343,Uncertain data/SIPRI estimate,MBT-2000 (Al Khalid or P-90) version
+14,China,licenser,50,Uncertain data/SIPRI estimate,JF-17 Thunder/FC-1,Fighter/ground attack (FGA) aircraft,1999,confirmed,2007-2013,50,Uncertain data/SIPRI estimate,JF-17 Block-1 version; developed for Pakistan; including production of components and assembly in Pakistan; including 8 mainly for testing and first 42 production version ordered 2009 for $800 million
+15,China,licenser,6,confirmed,K-8 Karakorum-8,Trainer/combat aircraft,2001,Uncertain data/SIPRI estimate,2003,6,confirmed,Including production of components and assembly in Pakistan
+16,China,licenser,4,confirmed,F-22,Frigate,2005,confirmed,2009-2013,4,confirmed,$500-750 million deal; F-22P version; including 1 produced in Pakistan; Pakistani designation Zulfiquar
+17,China,licenser,27,confirmed,K-8 Karakorum-8,Trainer/combat aircraft,2005,confirmed,2007-2010,27,confirmed,K-8P version
+18,China,licenser,48,Uncertain data/SIPRI estimate,A-100 300mm,Self-propelled multiple rocket launcher (MRL),2008,Uncertain data/SIPRI estimate,2011-2013,48,Uncertain data/SIPRI estimate,
+19,China,licenser,2,confirmed,Azmat,Fast attack craft (FAC),2010,confirmed,2012-2014,2,confirmed,Including 1 produced in Pakistan
+20,China,licenser,50,Uncertain data/SIPRI estimate,JF-17 Thunder/FC-1,Fighter/ground attack (FGA) aircraft,2011,Uncertain data/SIPRI estimate,0,0,confirmed,JF-17 Block-2 version; delivery status unknown
+21,China,licenser,50,Uncertain data/SIPRI estimate,JF-17 Thunder/FC-1,Fighter/ground attack (FGA) aircraft,2012,Uncertain data/SIPRI estimate,0,0,confirmed,JF-17 Block-2 or Block-3 version; selected but not yet ordered by end-2014
+22,China,licenser,2,confirmed,Azmat,Fast attack craft (FAC),2013,Uncertain data/SIPRI estimate,0,0,confirmed,Delivery 2016-2017
+23,China,recipient,25,Uncertain data/SIPRI estimate,Type-501B,Fire control radar,1964,Uncertain data/SIPRI estimate,1964-1967,25,Uncertain data/SIPRI estimate,
+24,China,recipient,72,confirmed,F-6/Farmer,Fighter aircraft,1965,confirmed,1965-1966,72,Uncertain data/SIPRI estimate,Aid
+25,China,recipient,4,confirmed,Il-28/Beagle,Bomber aircraft,1965,confirmed,1966,4,confirmed,H-5 (B-5) version; Pakistani designation B-56
+26,China,recipient,400,Uncertain data/SIPRI estimate,M-30 122mm,Towed gun,1965,Uncertain data/SIPRI estimate,1965-1974,400,Uncertain data/SIPRI estimate,Type-54-1 version
+27,China,recipient,4,Uncertain data/SIPRI estimate,MiG-15UTI/Midget,Trainer aircraft,1965,Uncertain data/SIPRI estimate,1966-1967,4,Uncertain data/SIPRI estimate,Second-hand
+28,China,recipient,200,Uncertain data/SIPRI estimate,Type-59,Tank,1965,Uncertain data/SIPRI estimate,1965-1966,200,Uncertain data/SIPRI estimate,Possibly aid
+29,China,recipient,550,Uncertain data/SIPRI estimate,Type-59,Tank,1966,Uncertain data/SIPRI estimate,1967-1970,550,Uncertain data/SIPRI estimate,Possibly aid
+30,China,recipient,50,Uncertain data/SIPRI estimate,ML-20 152mm,Towed gun,1968,Uncertain data/SIPRI estimate,1968,50,Uncertain data/SIPRI estimate,Supplier uncertain; probably Second-hand
+31,China,recipient,50,Uncertain data/SIPRI estimate,Type-63,Light tank,1969,Uncertain data/SIPRI estimate,1970-1971,50,Uncertain data/SIPRI estimate,
+32,China,recipient,12,confirmed,Type-062/Shanghai,Patrol craft,1970,Uncertain data/SIPRI estimate,1972-1973,12,Uncertain data/SIPRI estimate,
+33,China,recipient,50,Uncertain data/SIPRI estimate,Type-60,Light tank,1970,Uncertain data/SIPRI estimate,1971-1972,50,Uncertain data/SIPRI estimate,
+34,China,recipient,200,confirmed,D-74 122mm,Towed gun,1971,Uncertain data/SIPRI estimate,1971-1973,200,Uncertain data/SIPRI estimate,Type-60 version
+35,China,recipient,103,Uncertain data/SIPRI estimate,F-6/Farmer,Fighter aircraft,1971,Uncertain data/SIPRI estimate,1971-1972,103,Uncertain data/SIPRI estimate,Deal incl F-6 overhaul factory and probably some FT-6 trainer version
+36,China,recipient,4,confirmed,Type-025/Huchuan,Fast attack craft (FAC),1972,confirmed,1973,4,confirmed,
+37,China,recipient,100,Uncertain data/SIPRI estimate,Type-59,Tank,1972,Uncertain data/SIPRI estimate,1972,100,Uncertain data/SIPRI estimate,Aid
+38,China,recipient,50,Uncertain data/SIPRI estimate,FT-5,Trainer aircraft,1974,Uncertain data/SIPRI estimate,1975-1976,50,Uncertain data/SIPRI estimate,
+39,China,recipient,2,Uncertain data/SIPRI estimate,MiG-17PF/Fresco-D,Fighter aircraft,1974,Uncertain data/SIPRI estimate,1975,2,Uncertain data/SIPRI estimate,
+40,China,recipient,173,Uncertain data/SIPRI estimate,Type-59-1 130mm,Towed gun,1974,Uncertain data/SIPRI estimate,1976-1980,173,Uncertain data/SIPRI estimate,
+41,China,recipient,2,confirmed,Type-037/Hainan,Patrol craft,1975,confirmed,1976,2,confirmed,
+42,China,recipient,825,Uncertain data/SIPRI estimate,Type-59,Tank,1975,Uncertain data/SIPRI estimate,1978-1988,825,Uncertain data/SIPRI estimate,Possibly aid
+43,China,recipient,60,confirmed,F-6/Farmer,Fighter aircraft,1977,confirmed,1978-1980,60,Uncertain data/SIPRI estimate,
+44,China,recipient,20,confirmed,MiG-17PF/Fresco-D,Fighter aircraft,1978,confirmed,1978,20,Uncertain data/SIPRI estimate,
+45,China,recipient,25,Uncertain data/SIPRI estimate,F-6/Farmer,Fighter aircraft,1979,confirmed,1980-1981,25,Uncertain data/SIPRI estimate,FT-6 trainer version
+46,China,recipient,2,confirmed,Type-037/Hainan,Patrol craft,1979,confirmed,1980,2,confirmed,
+47,China,recipient,20,Uncertain data/SIPRI estimate,HY-2/SY-1A/CSS-N-2,Anti-ship missile,1980,confirmed,1981,20,Uncertain data/SIPRI estimate,For Hegu (Haibat) FAC; SY-1A (CSS-N-2) version
+48,China,recipient,4,confirmed,Type-024/Hegu,Fast attack craft (FAC),1980,Uncertain data/SIPRI estimate,1981,4,confirmed,
+49,China,recipient,52,confirmed,A-5C/Fantan,Fighter/ground attack (FGA) aircraft,1981,confirmed,1983-1984,52,Uncertain data/SIPRI estimate,A-5III version
+50,China,recipient,40,Uncertain data/SIPRI estimate,HQ-2/CSA-1,Surface-to-air missile (SAM),1983,Uncertain data/SIPRI estimate,1983,40,Uncertain data/SIPRI estimate,
+51,China,recipient,1,confirmed,HQ-2/CSA-1,Surface-to-air missile (SAM) system,1983,Uncertain data/SIPRI estimate,1983,1,Uncertain data/SIPRI estimate,
+52,China,recipient,30,Uncertain data/SIPRI estimate,HY-1/SY-1/CSS-N-1,Anti-ship missile,1983,confirmed,1984,30,Uncertain data/SIPRI estimate,For Huangfen (Azmat) FAC
+53,China,recipient,4,confirmed,Type-021/Huangfen,Fast attack craft (FAC),1983,Uncertain data/SIPRI estimate,1984,4,confirmed,
+54,China,recipient,14,confirmed,FT-5,Trainer aircraft,1984,Uncertain data/SIPRI estimate,1985,14,Uncertain data/SIPRI estimate,
+55,China,recipient,100,Uncertain data/SIPRI estimate,HN-5A,Portable surface-to-air missile (SAM),1984,Uncertain data/SIPRI estimate,1987,100,Uncertain data/SIPRI estimate,
+56,China,recipient,1,confirmed,Fuqing,Support ship,1985,Uncertain data/SIPRI estimate,1987,1,confirmed,
+57,China,recipient,24,confirmed,F-7M Airguard,Fighter aircraft,1986,Uncertain data/SIPRI estimate,1987-1988,24,Uncertain data/SIPRI estimate,Originally delivered as F-7M version but modified to F-7MP (F-7P); incl 4 FT-7 version
+58,China,recipient,75,confirmed,F-7M Airguard,Fighter aircraft,1988,confirmed,1989-1991,75,Uncertain data/SIPRI estimate,$225 million deal; F-7P (F-7MP) version; incl 15 FT-7P version
+59,China,recipient,4,confirmed,P-58A,Patrol craft,1988,Uncertain data/SIPRI estimate,1989-1990,4,confirmed,Pakistani designation Barkat; for coast guard
+60,China,recipient,250,Uncertain data/SIPRI estimate,Type-69,Tank,1990,Uncertain data/SIPRI estimate,1993-1999,250,Uncertain data/SIPRI estimate,Type-69-IIP or Type-69-IIMP version; including assembly and probably production in Pakistan
+61,China,recipient,40,confirmed,F-7M Airguard,Fighter aircraft,1992,confirmed,1993,40,confirmed,F-7P (F-7MP) version
+62,China,recipient,87,Uncertain data/SIPRI estimate,Type-59-1 130mm,Towed gun,1992,Uncertain data/SIPRI estimate,1998-2000,87,confirmed,
+63,China,recipient,3,confirmed,LL-1,Fire control radar,1994,Uncertain data/SIPRI estimate,1996-1997,3,Uncertain data/SIPRI estimate,For modernization of 3 Tariq (Amazon or Type-21) frigates; for use with LY-60N SAM system
+64,China,recipient,40,Uncertain data/SIPRI estimate,PL-11/FD-60,Beyond-visual-range air-to-air missile (BVRAAM),1994,Uncertain data/SIPRI estimate,1996-1997,40,Uncertain data/SIPRI estimate,For 3 modernized Tariq (Amazon) frigates
+65,China,recipient,2,confirmed,Type-76A 37mm,Naval gun,1995,Uncertain data/SIPRI estimate,1997-1999,2,confirmed,For 2 Jalalat FAC produced in Pakistan
+66,China,recipient,6,Uncertain data/SIPRI estimate,Y-12,Light transport aircraft,1995,confirmed,1996-1997,6,Uncertain data/SIPRI estimate,
+67,China,recipient,2,confirmed,Type-347G,Fire control radar,1996,Uncertain data/SIPRI estimate,1997-1999,2,confirmed,For 2 Jalalat FAC produced in Pakistan
+68,China,recipient,20,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,1997,confirmed,1997-1999,20,Uncertain data/SIPRI estimate,For Jalalat FAC
+69,China,recipient,46,confirmed,F-7MG,Fighter aircraft,2001,Uncertain data/SIPRI estimate,2001-2003,46,Uncertain data/SIPRI estimate,F-7PG version; incl 6 or 9 FT-7PG version
+70,China,recipient,11,confirmed,F-7MG,Fighter aircraft,2002,Uncertain data/SIPRI estimate,2003,11,confirmed,F-7PG version
+71,China,recipient,6,Uncertain data/SIPRI estimate,A-5C/Fantan,Fighter/ground attack (FGA) aircraft,2003,Uncertain data/SIPRI estimate,2003,6,confirmed,
+72,China,recipient,20,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,2003,Uncertain data/SIPRI estimate,2006,20,Uncertain data/SIPRI estimate,For Jurrat FAC
+73,China,recipient,143,Uncertain data/SIPRI estimate,D-30 122mm,Towed gun,2003,Uncertain data/SIPRI estimate,2003-2004,143,confirmed,
+74,China,recipient,2,confirmed,Type-347G,Fire control radar,2003,Uncertain data/SIPRI estimate,2006,2,confirmed,For 2 Jurrat FAC from Thailand
+75,China,recipient,1,confirmed,YLC-2,Air search radar,2003,Uncertain data/SIPRI estimate,2003,1,confirmed,
+76,China,recipient,10,confirmed,YLC-6,Air search radar,2003,Uncertain data/SIPRI estimate,2005-2006,10,Uncertain data/SIPRI estimate,
+77,China,recipient,6,Uncertain data/SIPRI estimate,AS565S Panther,Anti-submarine warfare (ASW) helicopter,2005,confirmed,2009-2010,6,Uncertain data/SIPRI estimate,Z-9EC version
+78,China,recipient,70,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,2005,Uncertain data/SIPRI estimate,2009-2013,70,Uncertain data/SIPRI estimate,For Jiangwei (F-22P) frigates
+79,China,recipient,100,Uncertain data/SIPRI estimate,R-440 Crotale,Surface-to-air missile (SAM),2005,Uncertain data/SIPRI estimate,2009-2013,100,Uncertain data/SIPRI estimate,For Jiangwei (F-22P) frigates; HQ-7 (FM-80) version
+80,China,recipient,800,Uncertain data/SIPRI estimate,PL-12/SD-10,Beyond-visual-range air-to-air missile (BVRAAM),2006,Uncertain data/SIPRI estimate,2010-2014,275,Uncertain data/SIPRI estimate,For JF-17 and possibly modernized Mirage-3/5 combat aircraft
+81,China,recipient,1000,Uncertain data/SIPRI estimate,PL-5E,Short range air-to-air missile (SRAAM),2006,Uncertain data/SIPRI estimate,2009-2014,460,Uncertain data/SIPRI estimate,For JF-17 combat aircraft; PL-5E-II version
+82,China,recipient,100,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,2008,Uncertain data/SIPRI estimate,2012-2014,30,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+83,China,recipient,750,Uncertain data/SIPRI estimate,LS-3,Guided bomb,2008,Uncertain data/SIPRI estimate,2010-2014,350,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+84,China,recipient,1000,Uncertain data/SIPRI estimate,LS-6-500,Guided bomb,2008,Uncertain data/SIPRI estimate,2010-2014,325,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+85,China,recipient,750,Uncertain data/SIPRI estimate,LT-2,Guided bomb,2008,Uncertain data/SIPRI estimate,2010-2014,325,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+86,China,recipient,2,Uncertain data/SIPRI estimate,SLC-2,Arty locating radar,2008,Uncertain data/SIPRI estimate,2010,2,Uncertain data/SIPRI estimate,For use with A-100 MRL
+87,China,recipient,200,Uncertain data/SIPRI estimate,WMD-7,Aircraft electro-optical (EO) system,2008,Uncertain data/SIPRI estimate,2009-2014,60,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+88,China,recipient,4,confirmed,ZDK-03,Airborne early warning and control (AEW&C) aircraft,2008,confirmed,2011-2014,4,Uncertain data/SIPRI estimate,$278 million deal; designated KE-03 in Pakistan
+89,China,recipient,50,Uncertain data/SIPRI estimate,FN-6,Portable surface-to-air missile (SAM),2009,Uncertain data/SIPRI estimate,2010,50,Uncertain data/SIPRI estimate,
+90,China,recipient,30,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,2010,Uncertain data/SIPRI estimate,2012-2014,30,Uncertain data/SIPRI estimate,For Azmat FAC
+91,China,recipient,50,Uncertain data/SIPRI estimate,CM-400AKG,Anti-ship missile,2010,Uncertain data/SIPRI estimate,2012-2014,30,Uncertain data/SIPRI estimate,For JF-17 combat aircraft
+92,China,recipient,4,confirmed,F-7A,Fighter aircraft,2010,confirmed,2010,4,confirmed,Second-hand; FT-7A version; aid
+93,China,recipient,90,Uncertain data/SIPRI estimate,SH-1 155mm,Self-propelled gun,2012,Uncertain data/SIPRI estimate,2013-2014,36,Uncertain data/SIPRI estimate,
+94,China,recipient,30,Uncertain data/SIPRI estimate,C-802/CSS-N-8,Anti-ship missile,2013,Uncertain data/SIPRI estimate,0,0,confirmed,For Azmat FAC; delivery status unknown
+95,China,recipient,8,confirmed,IBIS-150,Air search radar,2014,confirmed,0,0,confirmed,$40 million deal
+96,China,recipient,150,Uncertain data/SIPRI estimate,LY-80,Surface-to-air missile (SAM),2014,confirmed,0,0,confirmed,delivery status unknown
+97,China,recipient,3,confirmed,LY-80,Surface-to-air missile (SAM) system,2014,confirmed,0,0,confirmed,$226 million deal
+98,China,recipient,6,Uncertain data/SIPRI estimate,Type-041/Yuan,Submarine,2014,Uncertain data/SIPRI estimate,0,0,confirmed,Designation uncertain; selected but not yet ordered by end-2014
+99,France,licenser,2,confirmed,Agosta-90B,Submarine,1994,confirmed,1999-2003,2,confirmed,Part of $750 million deal (+ $200 million for modernization of Pakistan Naval Dockyard to build submarines; 1 assembled/produced in Pakistan); Pakistani designation Khalid
+100,France,licenser,1,confirmed,Agosta-90B MESMA,Submarine,1994,confirmed,2008,1,confirmed,Part of $750 million deal (+ $200 million for modernization of Pakistan Naval Dockyard to build submarines); Pakistani designation Khalid
+101,France,recipient,225,Uncertain data/SIPRI estimate,AM-50 120mm,Mortar,1965,Uncertain data/SIPRI estimate,1966-1970,225,Uncertain data/SIPRI estimate,
+102,France,recipient,3,confirmed,Daphne,Submarine,1967,Uncertain data/SIPRI estimate,1970,3,confirmed,Pakistani designation Hangor Class
+103,France,recipient,20,Uncertain data/SIPRI estimate,E14 550MM,AS torpedo,1967,Uncertain data/SIPRI estimate,1970,20,Uncertain data/SIPRI estimate,For 3 Daphne (Hangor) submarines
+104,France,recipient,20,Uncertain data/SIPRI estimate,E-15 550mm,AS torpedo,1967,Uncertain data/SIPRI estimate,1970,20,Uncertain data/SIPRI estimate,For 3 Daphne (Hangor) submarines
+105,France,recipient,20,Uncertain data/SIPRI estimate,L3 550mm,Anti-submarine warfare (ASW) torpedo,1967,Uncertain data/SIPRI estimate,1970,20,Uncertain data/SIPRI estimate,For 3 Daphne (Hangor) submarines
+106,France,recipient,24,confirmed,Mirage-3E,Fighter/ground attack (FGA) aircraft,1967,confirmed,1969,24,confirmed,Mirage-3EP version; including 3 Mirage-3RP reconnaissance and 3 Mirage-3DP version
+107,France,recipient,40,Uncertain data/SIPRI estimate,R-530,Beyond-visual-range air-to-air missile (BVRAAM),1967,Uncertain data/SIPRI estimate,1968,40,Uncertain data/SIPRI estimate,For Mirage-3E combat aircraft
+108,France,recipient,4,confirmed,SA-316B Alouette-3,Light helicopter,1967,Uncertain data/SIPRI estimate,1968,4,confirmed,For SAR
+109,France,recipient,36,confirmed,SA-316B Alouette-3,Light helicopter,1968,confirmed,1972-1982,36,Uncertain data/SIPRI estimate,Assembled in Pakistan
+110,France,recipient,30,confirmed,Mirage-5,Fighter/ground attack (FGA) aircraft,1970,confirmed,1971-1972,30,Uncertain data/SIPRI estimate,Mirage-5PA version; incl 2 Mirage-5DPA version
+111,France,recipient,40,Uncertain data/SIPRI estimate,AM-39 Exocet,Anti-ship missile,1974,Uncertain data/SIPRI estimate,1975,40,Uncertain data/SIPRI estimate,Incl for SH-3D helicopters
+112,France,recipient,3,confirmed,Atlantic,Anti-submarine warfare (ASW) aircraft,1974,confirmed,1975-1976,3,confirmed,Second-hand but modernized before delivery
+113,France,recipient,11,Uncertain data/SIPRI estimate,Crotale,Surface-to-air missile (SAM) system,1974,confirmed,1976-1978,11,Uncertain data/SIPRI estimate,'Pasban' programme
+114,France,recipient,300,Uncertain data/SIPRI estimate,R-440 Crotale,Surface-to-air missile (SAM),1974,confirmed,1977-1978,300,Uncertain data/SIPRI estimate,
+115,France,recipient,30,confirmed,Atar-9,Turbojet,1975,Uncertain data/SIPRI estimate,1981,30,Uncertain data/SIPRI estimate,Spares for Mirage-3 and Mirage-5 combat aircraft
+116,France,recipient,6,Uncertain data/SIPRI estimate,E14 550MM,AS torpedo,1975,Uncertain data/SIPRI estimate,1975,6,Uncertain data/SIPRI estimate,For 1 Daphne (Hangor) submarine
+117,France,recipient,6,Uncertain data/SIPRI estimate,E-15 550mm,AS torpedo,1975,Uncertain data/SIPRI estimate,1975,6,Uncertain data/SIPRI estimate,For 1 Daphne (Hangor) Class submarine
+118,France,recipient,6,Uncertain data/SIPRI estimate,L3 550mm,Anti-submarine warfare (ASW) torpedo,1975,Uncertain data/SIPRI estimate,1975,6,Uncertain data/SIPRI estimate,For 1 Daphne (Hangor) Class submarine
+119,France,recipient,10,confirmed,Mirage-3E,Fighter/ground attack (FGA) aircraft,1975,confirmed,1977,10,confirmed,Mirage-3RD reconnaissance version
+120,France,recipient,32,Uncertain data/SIPRI estimate,SA-330 Puma,Helicopter,1976,confirmed,1978-1979,32,Uncertain data/SIPRI estimate,SA-330L version
+121,France,recipient,2,confirmed,Agosta,Submarine,1978,confirmed,1979-1980,2,confirmed,Originally built for South Africa but embargoed and bought by Pakistan; Pakistani designation Hashmat
+122,France,recipient,80,Uncertain data/SIPRI estimate,F17 550mm,Anti-submarine warfare (ASW) torpedo,1978,Uncertain data/SIPRI estimate,1979,40,Uncertain data/SIPRI estimate,"For 2 Agosta (Hashmat) Class submarines; could incl E14, E15 and/or L3 torpedoes"
+123,France,recipient,32,confirmed,Mirage-5,Fighter/ground attack (FGA) aircraft,1979,confirmed,1980-1983,32,Uncertain data/SIPRI estimate,$343 million deal; Mirage-5PA-3 maritime attack version; incl 2 Mirage-5DPA-2
+124,France,recipient,192,Uncertain data/SIPRI estimate,R-550 Magic-1,Short range air-to-air missile (SRAAM),1979,confirmed,1980-1983,192,Uncertain data/SIPRI estimate,For Mirage-5 combat aircraft
+125,France,recipient,40,Uncertain data/SIPRI estimate,AM-39 Exocet,Anti-ship missile,1980,Uncertain data/SIPRI estimate,1982-1983,40,Uncertain data/SIPRI estimate,For Mirage-5 combat aircraft and SH-3D helicopters
+126,France,recipient,1,confirmed,Crotale,Surface-to-air missile (SAM) system,1983,Uncertain data/SIPRI estimate,1985,1,confirmed,
+127,France,recipient,100,confirmed,AS-30L,Air-to-surface missile (ASM),1985,Uncertain data/SIPRI estimate,1986-1987,100,Uncertain data/SIPRI estimate,
+128,France,recipient,20,Uncertain data/SIPRI estimate,ATLIS,Aircraft electro-optical (EO) system,1985,Uncertain data/SIPRI estimate,1986-1987,20,Uncertain data/SIPRI estimate,For F-16 combat aircraft
+129,France,recipient,2,confirmed,Falcon-20,Signals intelligence (SIGINT) aircraft,1985,Uncertain data/SIPRI estimate,1986,2,confirmed,
+130,France,recipient,20,Uncertain data/SIPRI estimate,SA-315B Lama,Light helicopter,1985,Uncertain data/SIPRI estimate,1987-1988,20,Uncertain data/SIPRI estimate,
+131,France,recipient,1,confirmed,Atlantic,Anti-submarine warfare (ASW) aircraft,1988,confirmed,1988,1,confirmed,Second-hand but modernized before delivery
+132,France,recipient,6,confirmed,DRPT-5 Rasit,Ground surv radar,1988,confirmed,1989-1991,6,Uncertain data/SIPRI estimate,
+133,France,recipient,12,confirmed,ATLIS,Aircraft electro-optical (EO) system,1990,confirmed,1991,12,Uncertain data/SIPRI estimate,Atlis-2 version
+134,France,recipient,7,confirmed,Ocean Master,Maritime patrol (MP) aircraft radar,1990,confirmed,1995-1999,7,Uncertain data/SIPRI estimate,For modernization of 4 Atlantic ASW/MP aircraft and 3 F-27 Maritime MP aircraft
+135,France,recipient,100,Uncertain data/SIPRI estimate,Mistral,Portable surface-to-air missile (SAM),1991,Uncertain data/SIPRI estimate,1994-1995,100,Uncertain data/SIPRI estimate,
+136,France,recipient,12,confirmed,SA-315B Lama,Light helicopter,1992,confirmed,1992-1993,12,Uncertain data/SIPRI estimate,$18.9 million deal
+137,France,recipient,3,confirmed,Tripartite,Mine countermeasures (MCM) ship,1992,confirmed,1992-1998,3,confirmed,Incl 1 assembled in Pakistan and 1 Second-hand (but only 3 years old when transferred); Pakistani designation Munsif Class
+138,France,recipient,25,Uncertain data/SIPRI estimate,SM-39 Exocet,Anti-ship missile,1994,confirmed,1999-2006,25,Uncertain data/SIPRI estimate,$100 million deal; for Agosta-90B (Khalid) submarines
+139,France,recipient,100,Uncertain data/SIPRI estimate,F17 550mm,Anti-submarine warfare (ASW) torpedo,1996,Uncertain data/SIPRI estimate,1999-2006,100,Uncertain data/SIPRI estimate,F-17P Mod-2 version; for Agosta-90B (Khalid) submarines
+140,France,recipient,40,Uncertain data/SIPRI estimate,Mirage-5,Fighter/ground attack (FGA) aircraft,1996,confirmed,1998-2004,40,Uncertain data/SIPRI estimate,Second-hand; $120 million 'Blue Flash-6' deal; modernized (ROSE-2 and ROSE-3 programme) before delivery; incl 6 Mirage-3D
+141,France,recipient,2,confirmed,ATAS,Anti-submarine warfare (ASW) sonar,1999,Uncertain data/SIPRI estimate,2000-2001,2,Uncertain data/SIPRI estimate,For modernization of 2 Amazon (Tariq) frigates
+142,France,recipient,10,confirmed,AS-350/AS-550 Fennec,Light helicopter,2004,confirmed,2006,10,confirmed,AS-350B3 version
+143,France,recipient,16,confirmed,PA6,Diesel engine,2005,confirmed,2009-2013,16,confirmed,For 4 F-22 (Zulfiquar) frigates from China; 16PA6 version; possibly from Chinese production line
+144,France,recipient,8,confirmed,SA-316B Alouette-3,Light helicopter,2005,confirmed,2008,8,Uncertain data/SIPRI estimate,Second-hand; SA-319B version
+145,France,recipient,10,confirmed,AS-350/AS-550 Fennec,Light helicopter,2007,Uncertain data/SIPRI estimate,2013-2014,10,Uncertain data/SIPRI estimate,Armed AS-550C3 version
+146,France,recipient,2,confirmed,MESMA,Air-independent propulsion (AIP) engine,2007,confirmed,0,0,confirmed,For modernization of 2 Agosta-90B submarines
+147,France,recipient,7,confirmed,AS-350/AS-550 Fennec,Light helicopter,2009,confirmed,2011,7,Uncertain data/SIPRI estimate,S-350B3 version
+148,France,recipient,2,confirmed,SA-316B Alouette-3,Light helicopter,2013,Uncertain data/SIPRI estimate,2014,2,confirmed,Second-hand
+149,Germany,licenser,4000,Uncertain data/SIPRI estimate,COBRA,Anti-tank missile,1963,confirmed,1964-1979,4000,Uncertain data/SIPRI estimate,Most probably assembled/produced in Pakistan; Cobra-1600 and Cobra-2000 version
+150,Germany,recipient,90,confirmed,F-86F Sabre,Fighter aircraft,1965,Uncertain data/SIPRI estimate,1966,90,confirmed,"Second-hand; officially bought by Iran, but transferred to Pakistan"
+151,Germany,recipient,100,Uncertain data/SIPRI estimate,UR-416,Armoured personnel carrier (APC),1972,Uncertain data/SIPRI estimate,1973-1976,100,Uncertain data/SIPRI estimate,Incl for border guard; incl version with 20mm gun
+152,Germany,recipient,45,Uncertain data/SIPRI estimate,DR-161/MPDR-45,Air search radar,1977,Uncertain data/SIPRI estimate,1979-1981,45,Uncertain data/SIPRI estimate,MPDR-45E version; incl MPDR-60
+153,Germany,recipient,5,Uncertain data/SIPRI estimate,DR-172/MPDR-90,Air search radar,1977,Uncertain data/SIPRI estimate,1979-1980,5,Uncertain data/SIPRI estimate,
+154,Germany,recipient,15,Uncertain data/SIPRI estimate,SUT,Anti-submarine warfare (ASW) torpedo,1989,Uncertain data/SIPRI estimate,1990-1991,15,Uncertain data/SIPRI estimate,For MG-110 midget submarines
+155,Germany,recipient,4,confirmed,MTU-538,Diesel engine,1990,confirmed,1997-1999,4,confirmed,For 2 Jalalat FAC produced in Pakistan; designation uncertain (reported as MTU diesel engines)
+156,Germany,recipient,6,confirmed,MTU-4000,Diesel engine,2003,Uncertain data/SIPRI estimate,2006,6,confirmed,For 2 Jurrat FAC from Thailand
+157,Germany,recipient,59,confirmed,DM-2A4 Seehecht,Anti-submarine warfare (ASW) torpedo,2005,confirmed,2007-2008,59,Uncertain data/SIPRI estimate,$80 million deal; for Agosta-90B (Khalid) submarines
+158,Germany,recipient,4,confirmed,DSQS-23,Anti-submarine warfare (ASW) sonar,2005,Uncertain data/SIPRI estimate,2009-2013,4,confirmed,For 4 F-22 (Zulfiquar) frigates from China
+159,Germany,recipient,30,Uncertain data/SIPRI estimate,Luna,Unmanned aerial vehicle�(UAV),2006,confirmed,2007-2008,30,Uncertain data/SIPRI estimate,For 3 Luna UAV systems; delivery temporarily delayed after Pakistani state of emergency in 2007
+160,Germany,recipient,4,confirmed,MTU-4000,Diesel engine,2006,confirmed,2007-2008,4,confirmed,For MRTP-33 FAC from Turkey
+161,Germany,recipient,10,Uncertain data/SIPRI estimate,Dingo-2,Armoured personnel carrier (APC),2009,Uncertain data/SIPRI estimate,2010,10,confirmed,
+162,Indonesia,recipient,3,confirmed,CN-235,Transport aircraft,2002,confirmed,2004,3,Uncertain data/SIPRI estimate,Part of $49-54 million deal (incl $24 million for 1 more for VIP transport); CN-235-220 version
+163,Iran,recipient,3,Uncertain data/SIPRI estimate,C-130B Hercules,Transport aircraft,1966,Uncertain data/SIPRI estimate,1967,3,Uncertain data/SIPRI estimate,Second-hand
+164,Iran,recipient,10,confirmed,Bell-205/UH-1D,Helicopter,1974,Uncertain data/SIPRI estimate,1974-1975,10,Uncertain data/SIPRI estimate,Second-hand; aid; AB-205 version
+165,Iran,recipient,5,confirmed,C-130E Hercules,Transport aircraft,1974,Uncertain data/SIPRI estimate,1974,5,confirmed,Second-hand
+166,Italy,licenser,135,Uncertain data/SIPRI estimate,Grifo,Combat aircraft radar,1995,confirmed,2000-2004,135,Uncertain data/SIPRI estimate,Grifo-7 version; for modernization of some 35 Mirage-3 and 100 F-7P combat aircraft
+167,Italy,licenser,57,Uncertain data/SIPRI estimate,Grifo,Combat aircraft radar,2002,Uncertain data/SIPRI estimate,2004-2005,57,Uncertain data/SIPRI estimate,Grifo-7PG version; for 57 F-7MG (F-7PG) combat aircraft from China
+168,Italy,licenser,25,Uncertain data/SIPRI estimate,Falco,Unmanned aerial vehicle�(UAV),2009,confirmed,2010-2011,25,Uncertain data/SIPRI estimate,Including production of components and assembly in Pakistan
+169,Italy,recipient,50,Uncertain data/SIPRI estimate,Model-56 105mm,Towed gun,1975,Uncertain data/SIPRI estimate,1975-1978,50,Uncertain data/SIPRI estimate,
+170,Italy,recipient,12,Uncertain data/SIPRI estimate,A244 324mm,Anti-submarine warfare (ASW) torpedo,1987,Uncertain data/SIPRI estimate,1989,12,Uncertain data/SIPRI estimate,
+171,Italy,recipient,3,confirmed,MG-110,Midget submarine,1989,Uncertain data/SIPRI estimate,1990-1991,3,Uncertain data/SIPRI estimate,Assembled from kits in Pakistan
+172,Italy,recipient,2,Uncertain data/SIPRI estimate,Argos-73,Air/sea search radar,1998,Uncertain data/SIPRI estimate,1999-2000,2,Uncertain data/SIPRI estimate,
+173,Italy,recipient,25,Uncertain data/SIPRI estimate,Falco,Unmanned aerial vehicle�(UAV),2006,confirmed,2008-2009,25,Uncertain data/SIPRI estimate,Incl assembly in Pakistan
+174,Italy,recipient,200,Uncertain data/SIPRI estimate,Aspide,Beyond-visual-range air-to-air missile (BVRAAM),2007,confirmed,2010-2013,200,Uncertain data/SIPRI estimate,Part of EUR415 million deal for Spada-2000 SAM systems; Aspide-2000 SAM version
+175,Italy,recipient,10,Uncertain data/SIPRI estimate,Spada-2000,Surface-to-air missile (SAM) system,2007,confirmed,2010-2013,10,Uncertain data/SIPRI estimate,EUR415 million deal; Spada-2000 Plus version
+176,Italy,recipient,45,Uncertain data/SIPRI estimate,LMV,Armoured patrol vehicle (APV),2009,Uncertain data/SIPRI estimate,2010,45,confirmed,
+177,Italy,recipient,600,Uncertain data/SIPRI estimate,M-113,Armoured personnel carrier (APC),2013,confirmed,2013-2014,600,Uncertain data/SIPRI estimate,Second-hand; incl VCC-1 and VCC-2 versions; aid
+178,Jordan,recipient,10,confirmed,F-104A Starfighter,Fighter aircraft,1971,confirmed,1971,10,Uncertain data/SIPRI estimate,Second-hand; loan during 1971 India-Pakistan war (returned to Jordan 1972)
+179,Jordan,recipient,13,confirmed,F-16(ADF),Fighter/ground attack (FGA) aircraft,2013,Uncertain data/SIPRI estimate,2014,13,confirmed,Second-hand; incl 3 F-16B version; $75 million deal
+180,Lebanon,recipient,10,Uncertain data/SIPRI estimate,Mirage-3E,Fighter/ground attack (FGA) aircraft,2000,Uncertain data/SIPRI estimate,2002,10,confirmed,Second-hand; $4.7 million deal; Mirage-3EL version; incl 1 Mirage-3BL version
+181,Libya,recipient,150,confirmed,Atar-9,Turbojet,2004,confirmed,2004-2005,150,Uncertain data/SIPRI estimate,Second-hand but probably never used
+182,Libya,recipient,10,Uncertain data/SIPRI estimate,Mirage-5,Fighter/ground attack (FGA) aircraft,2004,confirmed,2007-2010,10,Uncertain data/SIPRI estimate,Second-hand; 50-70 delivered but most for spare parts only
+183,Netherlands,recipient,3,Uncertain data/SIPRI estimate,DA-08,Air search radar,1994,confirmed,1997-1998,3,Uncertain data/SIPRI estimate,For modernization of 3 Tariq (Amazon) frigates
+184,Netherlands,recipient,1,confirmed,Poolster,Support ship,1994,confirmed,1994,1,confirmed,Second-hand; HFL9.7m ($5.3 million) deal; Pakistani designation Moawin
+185,Netherlands,recipient,4,confirmed,SA-316B Alouette-3,Light helicopter,1994,Uncertain data/SIPRI estimate,1995,4,confirmed,Second-hand
+186,New Zealand,recipient,1,confirmed,F-27 Friendship,Transport aircraft,1991,confirmed,1992,1,confirmed,Second-hand; F-27 Mk-100 version; bought via UK; modernized in UK before delivery; incl for MP
+187,New Zealand,recipient,1,confirmed,F-27 Friendship,Transport aircraft,1994,Uncertain data/SIPRI estimate,1994,1,confirmed,Second-hand; F-27 Mk-100 version; bought via UK company; modernized in UK before delivery; incl for MP
+188,North Korea,recipient,2,Uncertain data/SIPRI estimate,Rodong,Surface-to-surface missile (SSM),1993,Uncertain data/SIPRI estimate,1996-1997,2,Uncertain data/SIPRI estimate,Status uncertain; possibly also produced in Pakistan as Ghauri-1 and Ghauri-2 or Hatf-5
+189,Portugal,recipient,1,confirmed,Daphne,Submarine,1975,confirmed,1975,1,confirmed,Second-hand; Pakistani designation Hangor
+190,Romania,recipient,4,confirmed,SA-330 Puma,Helicopter,1987,Uncertain data/SIPRI estimate,1988,4,confirmed,IAR-330 version
+191,Russia,recipient,12,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,1995,confirmed,1996,12,confirmed,$32 million deal; Mi-17 version
+192,Russia,recipient,5,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,1995,Uncertain data/SIPRI estimate,1995,5,confirmed,$4.2 million deal; incl for SAR and VIP transport; ordered via Danish company
+193,Russia,recipient,12,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,2001,confirmed,2002,12,Uncertain data/SIPRI estimate,Part of $50 million deal; delivery delayed after Indian complaints from 2001 until 2002-2003
+194,Russia,recipient,4,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,2001,confirmed,2002,4,confirmed,Second-hand but modernized before delivery; part of $50 million deal
+195,Russia,recipient,12,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,2003,Uncertain data/SIPRI estimate,2004,12,confirmed,Part of $51 million deal; Mi-17 version; 1 more delivered for VIP transport; ordered via UK company
+196,Russia,recipient,200,Uncertain data/SIPRI estimate,RD-33,Turbofan,2004,Uncertain data/SIPRI estimate,2007-2013,85,Uncertain data/SIPRI estimate,RD-93 version; for JF-17 combat aircraft from China
+197,Russia,recipient,20,Uncertain data/SIPRI estimate,Mi-35M/Hind-E,Combat helicopter,2014,Uncertain data/SIPRI estimate,0,0,confirmed,Selected but not yet ordered by end-2014
+198,Serbia,recipient,20,Uncertain data/SIPRI estimate,Lazar,Infantry fighting vehicle (FV),2013,Uncertain data/SIPRI estimate,0,0,confirmed,Lazar-2 version; for police; status uncertain
+199,Slovakia,recipient,6,confirmed,OT-64C,Armoured personnel carrier (APC),1993,Uncertain data/SIPRI estimate,1993,6,confirmed,Second-hand; designation uncertain (reported as armoured combat vehicle)
+200,Soviet Union,recipient,2,Uncertain data/SIPRI estimate,SPK-5,Armoured recovery vehicle (ARV),1966,confirmed,1966,2,Uncertain data/SIPRI estimate,Second-hand
+201,Soviet Union,recipient,25,Uncertain data/SIPRI estimate,T-34/85,Tank,1966,confirmed,1966,25,Uncertain data/SIPRI estimate,Second-hand
+202,Soviet Union,recipient,12,Uncertain data/SIPRI estimate,Mi-8T/Hip-C,Helicopter,1967,Uncertain data/SIPRI estimate,1968-1970,12,Uncertain data/SIPRI estimate,
+203,Soviet Union,recipient,100,Uncertain data/SIPRI estimate,M-46 130mm,Towed gun,1968,Uncertain data/SIPRI estimate,1968,100,Uncertain data/SIPRI estimate,Second-hand
+204,Soviet Union,recipient,1,confirmed,Mi-6T/Hook-A,Helicopter,1968,confirmed,1968,1,confirmed,For evaluation
+205,Soviet Union,recipient,2,confirmed,P-35/Bar Lock,Air search radar,1968,confirmed,1969,2,confirmed,
+206,Soviet Union,recipient,2,confirmed,PRV-11/Side Net,Height-finding radar,1968,confirmed,1969,2,confirmed,
+207,Soviet Union,recipient,100,Uncertain data/SIPRI estimate,T-54,Tank,1968,Uncertain data/SIPRI estimate,1969,100,Uncertain data/SIPRI estimate,Second-hand
+208,Soviet Union,recipient,100,Uncertain data/SIPRI estimate,T-55,Tank,1968,Uncertain data/SIPRI estimate,1968,100,Uncertain data/SIPRI estimate,
+209,Soviet Union,recipient,11,Uncertain data/SIPRI estimate,Mi-8T/Hip-C,Helicopter,1983,Uncertain data/SIPRI estimate,1984-1985,11,Uncertain data/SIPRI estimate,
+210,Spain,recipient,2,confirmed,ATR-72,Transport aircraft,2012,confirmed,2013,2,confirmed,Second-hand
+211,Sweden,licenser,242,Uncertain data/SIPRI estimate,MFI-17 Supporter,Trainer aircraft,1974,confirmed,1976-1997,242,Uncertain data/SIPRI estimate,Incl 92 assembled from kits and rest produced in Pakistan; Pakistani designation Mushshak
+212,Sweden,licenser,0,confirmed,RBS-70,Portable surface-to-air missile (SAM),1985,Uncertain data/SIPRI estimate,1988-2014,1300,Uncertain data/SIPRI estimate,Probably incl RBS-70 Mk-3 version; no confirmation on how many were ordered
+213,Sweden,licenser,150,Uncertain data/SIPRI estimate,MFI-17 Supporter,Trainer aircraft,2001,Uncertain data/SIPRI estimate,2001-2014,141,Uncertain data/SIPRI estimate,Super Mushshak version
+214,Sweden,recipient,15,confirmed,MFI-17 Supporter,Trainer aircraft,1973,confirmed,1974-1976,15,Uncertain data/SIPRI estimate,Pakistani designation Mushshak
+215,Sweden,recipient,680,Uncertain data/SIPRI estimate,RBS-70,Portable surface-to-air missile (SAM),1984,confirmed,1986-1987,680,Uncertain data/SIPRI estimate,Part of $91 million deal (incl 144 launchers); incl assembly in Pakistan; number could be 824
+216,Sweden,recipient,8,Uncertain data/SIPRI estimate,Giraffe-40,Air search radar,1986,confirmed,1987-1988,8,Uncertain data/SIPRI estimate,Part of $91 million deal
+217,Sweden,recipient,2,Uncertain data/SIPRI estimate,Giraffe-40,Air search radar,1993,confirmed,1993,2,Uncertain data/SIPRI estimate,
+218,Sweden,recipient,40,Uncertain data/SIPRI estimate,Type-43,Anti-submarine warfare (ASW) torpedo,1994,confirmed,1999-2004,40,Uncertain data/SIPRI estimate,Type-43X2 version; for modernized Amazon (Tariq) frigates
+219,Sweden,recipient,1,confirmed,Saab-2000,Transport aircraft,2006,confirmed,2008,1,confirmed,Second-hand but modernized before delivery
+220,Sweden,recipient,4,confirmed,Saab-2000 AEW,Airborne early-warning and control (AEW&C),2006,confirmed,2009-2010,4,Uncertain data/SIPRI estimate,Original SEK8.3 b deal for 6-8 reduced to SEK7 b deal for 4
+221,Switzerland,recipient,200,Uncertain data/SIPRI estimate,GDF 35mm,Anti-aircraft (AA) gun,1981,Uncertain data/SIPRI estimate,1983-1988,200,Uncertain data/SIPRI estimate,GDF-002 version
+222,Switzerland,recipient,10,Uncertain data/SIPRI estimate,Skyguard,Fire control radar,1981,confirmed,1983-1984,10,Uncertain data/SIPRI estimate,For use with GDF-002 35mm AA guns
+223,Switzerland,recipient,100,Uncertain data/SIPRI estimate,Skyguard,Fire control radar,1988,Uncertain data/SIPRI estimate,1989-1996,100,Uncertain data/SIPRI estimate,For use with GDF-002 35mm AA guns; assembled in Pakistan
+224,Switzerland,recipient,48,Uncertain data/SIPRI estimate,GDF 35mm,Anti-aircraft (AA) gun,2006,confirmed,2007-2009,48,Uncertain data/SIPRI estimate,Part of CHF156 m ($120 million) deal
+225,Switzerland,recipient,24,Uncertain data/SIPRI estimate,Skyguard,Fire control radar,2006,confirmed,2007-2009,24,Uncertain data/SIPRI estimate,Part of CHF156 m ($120 million) deal; for use with GDF 35mm AA guns
+226,Thailand,licenser,2,confirmed,Jurrat,Fast attack craft (FAC),2002,confirmed,2006,2,confirmed,
+227,Turkey,licenser,60,Uncertain data/SIPRI estimate,Panter 155mm,Towed gun,2009,Uncertain data/SIPRI estimate,2011-2013,60,Uncertain data/SIPRI estimate,
+228,Turkey,licenser,1,confirmed,STW-15600t,Oiler,2013,confirmed,0,0,confirmed,$80 million deal; delivery 2017
+229,Turkey,recipient,50,Uncertain data/SIPRI estimate,Shorland,Armoured patrol vehicle (APV),1994,Uncertain data/SIPRI estimate,1995-1996,50,Uncertain data/SIPRI estimate,Shorland S-55 version; incl for police
+230,Turkey,recipient,2,confirmed,MRTP-33,Fast attack craft (FAC),2006,confirmed,2007-2008,2,confirmed,Pakistani designation Kaan-33
+231,Turkey,recipient,12,confirmed,Panter 155mm,Towed gun,2007,Uncertain data/SIPRI estimate,2008-2009,12,Uncertain data/SIPRI estimate,
+232,United Arab Emirates (UAE),recipient,4,confirmed,SA-316B Alouette-3,Light helicopter,1987,Uncertain data/SIPRI estimate,1987,4,confirmed,Second-hand; aid
+233,United Arab Emirates (UAE),recipient,14,confirmed,SA-330 Puma,Helicopter,2009,confirmed,2009,14,confirmed,Second-hand; aid; IAR-330SM version
+234,United Arab Emirates (UAE),recipient,2,confirmed,Hawker-4000,Light transport aircraft,2011,Uncertain data/SIPRI estimate,2013,2,Uncertain data/SIPRI estimate,Probably second-hand; possibly for SIGINT
+235,Ukraine,recipient,320,confirmed,T-80U,Tank,1996,confirmed,1997-1999,320,confirmed,$580-650 million deal; incl 50 Second-handrainian (but probably not much used); T-80UD version
+236,Ukraine,recipient,320,Uncertain data/SIPRI estimate,5TDF,Diesel engine,2000,Uncertain data/SIPRI estimate,2004-2007,320,Uncertain data/SIPRI estimate,For modernization of Type-59 tanks to Al Zarrar; no. could be up to 400
+237,Ukraine,recipient,315,confirmed,6TD,Diesel engine,2002,confirmed,2004-2013,315,Uncertain data/SIPRI estimate,$150 million deal; for MBT-2000 (Type-90-2 or Al Khalid) tanks from China
+238,Ukraine,recipient,4,confirmed,Il-78M/Midas,Tanker/transport aircraft,2006,Uncertain data/SIPRI estimate,2009-2011,4,Uncertain data/SIPRI estimate,Second-hand but probably modernized before delivery
+239,Ukraine,recipient,110,confirmed,6TD,Diesel engine,2013,confirmed,2013-2014,70,Uncertain data/SIPRI estimate,$50 million deal; probably for MBT-2000 (Type-90-2 or Al Khalid) tanks from China
+240,United Kingdom (UK),recipient,75,Uncertain data/SIPRI estimate,Bristol-170 Freighter,Transport aircraft,1949,Uncertain data/SIPRI estimate,1950-1955,75,Uncertain data/SIPRI estimate,
+241,United Kingdom (UK),recipient,1,confirmed,O Class,Destroyer,1949,confirmed,1951,1,confirmed,Second-hand; Pakistani designation Tariq
+242,United Kingdom (UK),recipient,90,Uncertain data/SIPRI estimate,Sea Fury,Fighter aircraft,1949,confirmed,1950-1952,90,Uncertain data/SIPRI estimate,Sea Fury Mk-60 version; incl 5 T-61 trainer version
+243,United Kingdom (UK),recipient,36,confirmed,Attacker,Fighter aircraft,1950,Uncertain data/SIPRI estimate,1951-1953,36,Uncertain data/SIPRI estimate,
+244,United Kingdom (UK),recipient,3,Uncertain data/SIPRI estimate,AMES Type-13,Height-finding radar,1951,confirmed,1952,3,Uncertain data/SIPRI estimate,
+245,United Kingdom (UK),recipient,3,Uncertain data/SIPRI estimate,AMES Type-14,Air search radar,1951,confirmed,1952,3,Uncertain data/SIPRI estimate,
+246,United Kingdom (UK),recipient,2,Uncertain data/SIPRI estimate,Auster AOP,Light aircraft,1953,Uncertain data/SIPRI estimate,1953,2,confirmed,
+247,United Kingdom (UK),recipient,1,confirmed,EWP,Destroyer,1953,Uncertain data/SIPRI estimate,1954,1,confirmed,Second-hand; loan; Ch version; Pakistani designation Taimar
+248,United Kingdom (UK),recipient,10,Uncertain data/SIPRI estimate,Ferret,Armoured patrol vehicle (APV),1953,Uncertain data/SIPRI estimate,1954,10,Uncertain data/SIPRI estimate,
+249,United Kingdom (UK),recipient,5,confirmed,Sea Fury,Fighter aircraft,1953,confirmed,1953-1954,5,Uncertain data/SIPRI estimate,"Second-hand, Sea Fury version"
+250,United Kingdom (UK),recipient,2,Uncertain data/SIPRI estimate,AMES Type-15,Air search radar,1954,confirmed,1955-1956,2,Uncertain data/SIPRI estimate,
+251,United Kingdom (UK),recipient,1,confirmed,Bellona,Cruiser,1955,confirmed,1956,1,confirmed,Second-hand but modernized before delivery; Pakistani designation Babur
+252,United Kingdom (UK),recipient,2,confirmed,Battle,Destroyer,1956,confirmed,1957,2,confirmed,Second-hand but modernized before delivery; financed by US 'MDAP' aid
+253,United Kingdom (UK),recipient,2,confirmed,102mm Mk-19,Naval gun,1957,confirmed,1958,2,Uncertain data/SIPRI estimate,Probably Second-hand guns modernized before delivery; for modernization of 2 O Class destroyers
+254,United Kingdom (UK),recipient,3,confirmed,EWP,Destroyer,1957,Uncertain data/SIPRI estimate,1958,3,confirmed,Second-hand but modernized before delivery; financed by US 'MDAP' aid; incl 2 Cr and 1 Ch version
+255,United Kingdom (UK),recipient,4,confirmed,Town,Patrol craft,1963,confirmed,1965,4,confirmed,
+256,United Kingdom (UK),recipient,3,confirmed,Condor,Air search radar,1966,confirmed,1968,3,confirmed,
+257,United Kingdom (UK),recipient,9,confirmed,AR-1,Air search radar,1967,Uncertain data/SIPRI estimate,1968-1969,9,Uncertain data/SIPRI estimate,Incl 3 AR-15 version
+258,United Kingdom (UK),recipient,1,confirmed,HF-200,Height-finding radar,1967,Uncertain data/SIPRI estimate,1967,1,confirmed,
+259,United Kingdom (UK),recipient,6,confirmed,Sea King HAS-1,Anti-submarine warfare (ASW) helicopter,1973,Uncertain data/SIPRI estimate,1974,6,Uncertain data/SIPRI estimate,Sea King Mk-45 version
+260,United Kingdom (UK),recipient,1,confirmed,County,Destroyer,1981,confirmed,1982,1,confirmed,Second-hand but modernized before delivery; Pakistani designation Babur
+261,United Kingdom (UK),recipient,25,Uncertain data/SIPRI estimate,Sea Cat,Surface-to-air missile (SAM),1981,Uncertain data/SIPRI estimate,1982,25,Uncertain data/SIPRI estimate,Second-hand; for County destroyer
+262,United Kingdom (UK),recipient,10,Uncertain data/SIPRI estimate,Hussar,Armoured personnel carrier (APC),1987,Uncertain data/SIPRI estimate,1988,10,Uncertain data/SIPRI estimate,For police
+263,United Kingdom (UK),recipient,20,confirmed,Transac GS,Armoured patrol vehicle (APV),1987,Uncertain data/SIPRI estimate,1988,20,confirmed,
+264,United Kingdom (UK),recipient,2,confirmed,Leander,Frigate,1988,confirmed,1988,2,confirmed,Second-hand; Pakistani designation Zulfiquar
+265,United Kingdom (UK),recipient,40,Uncertain data/SIPRI estimate,Sea Cat,Surface-to-air missile (SAM),1988,confirmed,1988,40,Uncertain data/SIPRI estimate,Second-hand; for 2 Leander (Zulfiquar) frigates
+266,United Kingdom (UK),recipient,1,confirmed,Sea King HAR-3,Helicopter,1989,confirmed,1989,1,confirmed,Second-hand; Sea King HAS-5 ASW version modified to Sea King Mk-45A before delivery (ASW equipment removed)
+267,United Kingdom (UK),recipient,24,confirmed,Shorland,Armoured patrol vehicle (APV),1990,confirmed,1990-1991,24,Uncertain data/SIPRI estimate,Shorland S-55 version; for police
+268,United Kingdom (UK),recipient,1,confirmed,BN-2 Maritime,Maritime patrol (MP) aircraft,1992,Uncertain data/SIPRI estimate,1993,1,confirmed,For coast guard
+269,United Kingdom (UK),recipient,6,confirmed,Amazon,Frigate,1993,confirmed,1993-1994,6,confirmed,Second-hand; deal worth $90 million; Pakistani designation Tariq Class
+270,United Kingdom (UK),recipient,40,Uncertain data/SIPRI estimate,Sea Cat,Surface-to-air missile (SAM),1993,confirmed,1993,40,Uncertain data/SIPRI estimate,Second-hand; for 2 Leander (Zulfiquar) frigates
+271,United Kingdom (UK),recipient,1,confirmed,BN-2 Maritime,Maritime patrol (MP) aircraft,1994,confirmed,1994,1,confirmed,$1.4 million deal; for coast guard
+272,United Kingdom (UK),recipient,3,confirmed,Lynx,Anti-submarine warfare (ASW) helicopter,1994,confirmed,1994,3,confirmed,Second-hand; Lynx HAS-3 version; option on 3 more
+273,United Kingdom (UK),recipient,2,confirmed,SA-316B Alouette-3,Light helicopter,2005,confirmed,2008,2,confirmed,Second-hand; SA-319B version
+274,United Kingdom (UK),recipient,1,confirmed,Tyne,Gas turbine,2013,Uncertain data/SIPRI estimate,2013,1,confirmed,Probably second-hand
+275,United States (US),licenser,4,Uncertain data/SIPRI estimate,LAADS,Air search radar,1989,Uncertain data/SIPRI estimate,1990,4,Uncertain data/SIPRI estimate,
+276,United States (US),licenser,775,confirmed,M-113,Armoured patrol vehicle (APV),1989,confirmed,1989-1999,775,Uncertain data/SIPRI estimate,M-113A2 version; most assembled from kits (delivered between 1989-1991/1995) in Pakistan
+277,United States (US),licenser,0,Uncertain data/SIPRI estimate,Dragoon,Armoured patrol vehicle (APV),2013,Uncertain data/SIPRI estimate,2014,2,Uncertain data/SIPRI estimate,no confirmaiton on how many were ordered
+278,United States (US),recipient,100,Uncertain data/SIPRI estimate,M-4 Sherman,Tank,1948,Uncertain data/SIPRI estimate,1950,100,Uncertain data/SIPRI estimate,Second-hand
+279,United States (US),recipient,10,Uncertain data/SIPRI estimate,M-32,Armoured recovery vehicle (ARV),1949,Uncertain data/SIPRI estimate,1950,10,Uncertain data/SIPRI estimate,Probably Second-hand
+280,United States (US),recipient,1,confirmed,Hiller-12/OH-23 Raven,Light helicopter,1951,confirmed,1952,1,confirmed,
+281,United States (US),recipient,150,Uncertain data/SIPRI estimate,M-24 Chaffee,Light tank,1953,Uncertain data/SIPRI estimate,1954-1955,150,Uncertain data/SIPRI estimate,Second-hand
+282,United States (US),recipient,50,Uncertain data/SIPRI estimate,M-41 Walker Bulldog,Light tank,1953,Uncertain data/SIPRI estimate,1954-1955,50,Uncertain data/SIPRI estimate,
+283,United States (US),recipient,80,Uncertain data/SIPRI estimate,F-86F Sabre,Fighter aircraft,1954,confirmed,1956-1958,80,Uncertain data/SIPRI estimate,Second-hand but modernized before delivery; 'MAP' aid
+284,United States (US),recipient,40,confirmed,F-86F Sabre,Fighter aircraft,1954,Uncertain data/SIPRI estimate,1957-1958,40,Uncertain data/SIPRI estimate,'MAP' aid
+285,United States (US),recipient,26,Uncertain data/SIPRI estimate,M-115 203mm,Towed gun,1954,Uncertain data/SIPRI estimate,1955-1958,26,Uncertain data/SIPRI estimate,Second-hand
+286,United States (US),recipient,345,Uncertain data/SIPRI estimate,M-47 Patton,Tank,1954,Uncertain data/SIPRI estimate,1955-1960,345,Uncertain data/SIPRI estimate,Second-hand
+287,United States (US),recipient,30,Uncertain data/SIPRI estimate,M-59 155mm,Towed gun,1954,Uncertain data/SIPRI estimate,1954-1956,30,Uncertain data/SIPRI estimate,Second-hand
+288,United States (US),recipient,150,Uncertain data/SIPRI estimate,M-7 105mm,Self-propelled gun,1954,Uncertain data/SIPRI estimate,1955-1956,150,Uncertain data/SIPRI estimate,Second-hand
+289,United States (US),recipient,15,Uncertain data/SIPRI estimate,T-33A Shooting Star,Trainer aircraft,1954,confirmed,1955-1956,15,Uncertain data/SIPRI estimate,Second-hand; 'MAP' aid; no. could be 32
+290,United States (US),recipient,8,confirmed,Adjutant,Minesweeper,1955,confirmed,1955-1963,8,confirmed,'MAP' aid
+291,United States (US),recipient,300,Uncertain data/SIPRI estimate,M-101A1 105mm,Towed gun,1955,confirmed,1955-1957,300,Uncertain data/SIPRI estimate,Second-hand; aid
+292,United States (US),recipient,25,Uncertain data/SIPRI estimate,M-19 40mm,Self-propelled anti-aircraft gun (SPAAG),1955,Uncertain data/SIPRI estimate,1955,25,Uncertain data/SIPRI estimate,Second-hand
+293,United States (US),recipient,4,confirmed,HU-16B Albatross,Maritime patrol (MP) aircraft,1956,Uncertain data/SIPRI estimate,1956-1957,4,Uncertain data/SIPRI estimate,Second-hand; SA-16A SAR version
+294,United States (US),recipient,25,Uncertain data/SIPRI estimate,M-36 Jackson,Tank,1956,Uncertain data/SIPRI estimate,1958,25,Uncertain data/SIPRI estimate,Second-hand
+295,United States (US),recipient,6,confirmed,RT-33A T-Bird,Reconnaissance aircraft,1956,Uncertain data/SIPRI estimate,1957,6,confirmed,'MAP' aid
+296,United States (US),recipient,8,confirmed,S-55/H-19 Chickasaw,Helicopter,1956,confirmed,1958,8,confirmed,For SAR; 'MAP' aid
+297,United States (US),recipient,60,confirmed,O-1/L-19 Bird Dog,Light aircraft,1957,Uncertain data/SIPRI estimate,1957-1958,60,Uncertain data/SIPRI estimate,Probably second-hand (but maximum few years old); 'MDAP' aid
+298,United States (US),recipient,4,confirmed,S-55/H-19 Chickasaw,Helicopter,1957,Uncertain data/SIPRI estimate,1957,4,Uncertain data/SIPRI estimate,
+299,United States (US),recipient,500,Uncertain data/SIPRI estimate,AIM-9B Sidewinder-1A,Short range air-to-air missile (SRAAM),1958,Uncertain data/SIPRI estimate,1959-1963,500,Uncertain data/SIPRI estimate,"For F-86, F-104 and F-6 combat aircraft"
+300,United States (US),recipient,26,confirmed,Canberra B-57B,Bomber aircraft,1958,Uncertain data/SIPRI estimate,1959,26,confirmed,Second-hand (but only few years old); 'MAP' aid; incl 2 B-57C trainer version
+301,United States (US),recipient,1,confirmed,Bonanza,Light aircraft,1959,Uncertain data/SIPRI estimate,1960,1,confirmed,Bonanza V-35 version
+302,United States (US),recipient,2,confirmed,FPS-20,Air search radar,1959,Uncertain data/SIPRI estimate,1960,2,confirmed,'MAP' aid
+303,United States (US),recipient,2,confirmed,FPS-6,Height-finding radar,1959,Uncertain data/SIPRI estimate,1960,2,confirmed,'MAP' aid
+304,United States (US),recipient,1,confirmed,Navajo/ATF,Tug,1959,confirmed,1959,1,confirmed,Second-hand; Paksitani designation Madadgar
+305,United States (US),recipient,1,confirmed,Commander-680FL,Light transport aircraft,1960,Uncertain data/SIPRI estimate,1961,1,Uncertain data/SIPRI estimate,Commander-690C version
+306,United States (US),recipient,12,Uncertain data/SIPRI estimate,F-104A Starfighter,Fighter aircraft,1960,confirmed,1961-1962,12,Uncertain data/SIPRI estimate,Second-hand but modernized before delivery; incl 2 F-104B
+307,United States (US),recipient,60,Uncertain data/SIPRI estimate,M-114A1 155mm,Towed gun,1960,Uncertain data/SIPRI estimate,1960-1963,60,Uncertain data/SIPRI estimate,Second-hand
+308,United States (US),recipient,200,Uncertain data/SIPRI estimate,M-48 Patton,Tank,1960,Uncertain data/SIPRI estimate,1961-1964,200,Uncertain data/SIPRI estimate,Second-hand
+309,United States (US),recipient,10,Uncertain data/SIPRI estimate,T-6 Texan,Trainer aircraft,1960,Uncertain data/SIPRI estimate,1960,10,Uncertain data/SIPRI estimate,Second-hand
+310,United States (US),recipient,27,confirmed,T-37B,Trainer aircraft,1961,Uncertain data/SIPRI estimate,1962-1964,27,Uncertain data/SIPRI estimate,'MAP' aid; incl 21 T-37C version
+311,United States (US),recipient,4,confirmed,C-130B Hercules,Transport aircraft,1962,Uncertain data/SIPRI estimate,1963,4,confirmed,'MAP' aid
+312,United States (US),recipient,6,Uncertain data/SIPRI estimate,HH-43B/F Huskie,Helicopter,1962,Uncertain data/SIPRI estimate,1963-1964,6,Uncertain data/SIPRI estimate,For SAR; 'MAP' aid; HH-43F version
+313,United States (US),recipient,109,confirmed,M-113,Armoured personnel carrier (APC),1962,Uncertain data/SIPRI estimate,1963-1964,109,Uncertain data/SIPRI estimate,
+314,United States (US),recipient,1,confirmed,Mission,Oiler,1962,Uncertain data/SIPRI estimate,1963,1,confirmed,Second-hand; loan until bought in 1975; Pakistani designation Dacca
+315,United States (US),recipient,2,confirmed,Queen Air,Light transport aircraft,1962,Uncertain data/SIPRI estimate,1963,2,confirmed,Second-hand
+316,United States (US),recipient,18,Uncertain data/SIPRI estimate,Bell-47/OH-13,Light helicopter,1963,Uncertain data/SIPRI estimate,1964,18,Uncertain data/SIPRI estimate,Second-hand; 'MAP' aid; no. could be up to 32
+317,United States (US),recipient,1,confirmed,Tench,Submarine,1963,Uncertain data/SIPRI estimate,1964,1,confirmed,Second-hand; Pakistani designation Ghazi
+318,United States (US),recipient,1,confirmed,Twin Bonanza,Light transport aircraft,1963,Uncertain data/SIPRI estimate,1964,1,confirmed,U-8F version
+319,United States (US),recipient,50,Uncertain data/SIPRI estimate,Mk-44,Anti-submarine warfare (ASW) torpedo,1964,Uncertain data/SIPRI estimate,1965-1966,50,Uncertain data/SIPRI estimate,
+320,United States (US),recipient,1,Uncertain data/SIPRI estimate,RB-57F Canberra,Reconnaissance aircraft,1964,Uncertain data/SIPRI estimate,1965,1,Uncertain data/SIPRI estimate,Second-hand B-57/RB-57 rebuilt to RB-57F
+321,United States (US),recipient,1,confirmed,Commander-680FL,Light transport aircraft,1965,Uncertain data/SIPRI estimate,1966,1,confirmed,Incl for VIP transport; Commander-690C version
+322,United States (US),recipient,1,confirmed,Travel Air,Light transport aircraft,1965,Uncertain data/SIPRI estimate,1966,1,confirmed,
+323,United States (US),recipient,6,confirmed,T-37B,Trainer aircraft,1967,Uncertain data/SIPRI estimate,1968,6,Uncertain data/SIPRI estimate,'MAP' aid; T-37C version
+324,United States (US),recipient,5,Uncertain data/SIPRI estimate,O-1/L-19 Bird Dog,Light aircraft,1971,Uncertain data/SIPRI estimate,1972,5,Uncertain data/SIPRI estimate,Assembled in Pakistan
+325,United States (US),recipient,6,confirmed,Bell-205/UH-1H,Helicopter,1973,confirmed,1973,6,confirmed,Second-hand; aid
+326,United States (US),recipient,2,confirmed,C-130B Hercules,Transport aircraft,1973,Uncertain data/SIPRI estimate,1974-1975,2,confirmed,Second-hand
+327,United States (US),recipient,300,confirmed,M-113,Armoured patrol vehicle (APV),1973,Uncertain data/SIPRI estimate,1973-1975,300,Uncertain data/SIPRI estimate,M-113A1 version
+328,United States (US),recipient,500,Uncertain data/SIPRI estimate,AIM-9J/P Sidewinder,Short range air-to-air missile (SRAAM),1974,confirmed,1974,500,Uncertain data/SIPRI estimate,Second-hand AIM-9B version modernized after delivery to AIM-9J in Pakistan with US-supplied compoments
+329,United States (US),recipient,5,confirmed,Cessna-172/T-41,Trainer aircraft,1974,Uncertain data/SIPRI estimate,1975,5,confirmed,
+330,United States (US),recipient,7,confirmed,T-37B,Trainer aircraft,1974,Uncertain data/SIPRI estimate,1977,7,confirmed,'MAP' aid; T-37C version
+331,United States (US),recipient,12,confirmed,Bell-206/OH-58,Light helicopter,1975,confirmed,1976,12,confirmed,Bell-206A version
+332,United States (US),recipient,16,confirmed,T-37B,Trainer aircraft,1976,Uncertain data/SIPRI estimate,1977,16,Uncertain data/SIPRI estimate,Second-hand; lease
+333,United States (US),recipient,2,confirmed,Gearing FRAM-1,Destroyer,1977,confirmed,1978,2,confirmed,Second-hand but modernized before delivery; Pakistani designation Tariq
+334,United States (US),recipient,230,confirmed,M-113,Armoured personnel carrier (APC),1977,Uncertain data/SIPRI estimate,1979-1980,230,Uncertain data/SIPRI estimate,M-113A1 version
+335,United States (US),recipient,100,confirmed,Mk-46,Anti-submarine warfare (ASW) torpedo,1977,Uncertain data/SIPRI estimate,1978-1980,100,Uncertain data/SIPRI estimate,
+336,United States (US),recipient,2,confirmed,PA-34 Seneca,Light transport aircraft,1977,Uncertain data/SIPRI estimate,1978,2,confirmed,
+337,United States (US),recipient,1,confirmed,Baron,Light transport aircraft,1979,Uncertain data/SIPRI estimate,1980,1,confirmed,
+338,United States (US),recipient,3,confirmed,C-130B Hercules,Transport aircraft,1979,Uncertain data/SIPRI estimate,1979-1981,3,confirmed,Second-hand
+339,United States (US),recipient,6,confirmed,T-37B,Trainer aircraft,1979,Uncertain data/SIPRI estimate,1980,6,confirmed,Second-hand
+340,United States (US),recipient,6,confirmed,TPS-43,Air search radar,1979,Uncertain data/SIPRI estimate,1980-1981,6,Uncertain data/SIPRI estimate,'Crystal-2' programme; AN/TPS-43G version
+341,United States (US),recipient,2,confirmed,Gearing FRAM-1,Destroyer,1980,Uncertain data/SIPRI estimate,1980,2,confirmed,Second-hand; $0.4 million deal; Pakistani designation Tariq
+342,United States (US),recipient,10,confirmed,Bell-209/AH-1S Cobra,Combat helicopter,1981,confirmed,1984-1985,10,confirmed,
+343,United States (US),recipient,1005,confirmed,BGM-71 TOW,Anti-tank missile,1981,confirmed,1983-1986,1005,Uncertain data/SIPRI estimate,For M-901 tank destroyers and Bell-209/AH-1S helicopters
+344,United States (US),recipient,40,confirmed,F-16A,Fighter/ground attack (FGA) aircraft,1981,confirmed,1983-1985,40,Uncertain data/SIPRI estimate,$1.2 billion 'Peace Gate-1' and 'Peace Gate-2' deal; F-16 Block-15 version; incl 11 F-16B
+345,United States (US),recipient,64,confirmed,M-109A1 155mm,Self-propelled gun,1981,confirmed,1983-1984,64,Uncertain data/SIPRI estimate,M-109A2 version
+346,United States (US),recipient,40,confirmed,M-110A2 203mm,Self-propelled gun,1981,confirmed,1984-1985,40,Uncertain data/SIPRI estimate,
+347,United States (US),recipient,75,confirmed,M-198 155mm,Towed gun,1981,confirmed,1984-1986,75,Uncertain data/SIPRI estimate,
+348,United States (US),recipient,100,confirmed,M-48A5 Patton,Tank,1981,confirmed,1982-1983,100,Uncertain data/SIPRI estimate,Second-hand
+349,United States (US),recipient,52,Uncertain data/SIPRI estimate,M-88,Armoured recovery vehicle (ARV),1981,confirmed,1984-1986,52,Uncertain data/SIPRI estimate,M-88A1 version
+350,United States (US),recipient,24,confirmed,M-901 ITV,Tank destroyer,1981,confirmed,1984-1985,24,Uncertain data/SIPRI estimate,
+351,United States (US),recipient,10,confirmed,Bell-209/AH-1S Cobra,Combat helicopter,1982,confirmed,1986,10,confirmed,
+352,United States (US),recipient,2,confirmed,Gearing FRAM-1,Destroyer,1982,Uncertain data/SIPRI estimate,1982-1983,2,confirmed,Second-hand; Pakistani designation Tariq
+353,United States (US),recipient,36,confirmed,M-109A1 155mm,Self-propelled gun,1982,confirmed,1984-1985,36,Uncertain data/SIPRI estimate,$30 million deal; M-109A2 version
+354,United States (US),recipient,9,Uncertain data/SIPRI estimate,TPQ-36 Firefinder,Arty locating radar,1982,Uncertain data/SIPRI estimate,1984-1985,9,Uncertain data/SIPRI estimate,
+355,United States (US),recipient,1,confirmed,Commander-680FL,Light transport aircraft,1983,Uncertain data/SIPRI estimate,1983,1,confirmed,Second-hand; Commander-840 version
+356,United States (US),recipient,100,Uncertain data/SIPRI estimate,AGM-65 Maverick,Air-to-surface missile (ASM),1985,Uncertain data/SIPRI estimate,1986-1987,100,Uncertain data/SIPRI estimate,AGM-65B version
+357,United States (US),recipient,500,confirmed,AIM-9L/M Sidewinder,Short range air-to-air missile (SRAAM),1985,confirmed,1985-1987,500,Uncertain data/SIPRI estimate,$50 million deal; AIM-9L version; incl for F-16A combat aircraft; delivered after Soviet aircraft from Afghanistan violated Pakistani airspace
+358,United States (US),recipient,100,Uncertain data/SIPRI estimate,FIM-92 Stinger,Portable surface-to-air missile (SAM),1985,confirmed,1985,100,Uncertain data/SIPRI estimate,Taken by Pakistan from US aid destined for Afghan Mujahideen
+359,United States (US),recipient,52,Uncertain data/SIPRI estimate,M-109A1 155mm,Self-propelled gun,1985,Uncertain data/SIPRI estimate,1988-1989,52,Uncertain data/SIPRI estimate,M-109A2 version
+360,United States (US),recipient,110,confirmed,M-113,Armoured patrol vehicle (APV),1985,Uncertain data/SIPRI estimate,1986-1987,110,Uncertain data/SIPRI estimate,$25 million deal; M-113A2 version
+361,United States (US),recipient,4,confirmed,TPQ-37 Firefinder,Arty locating radar,1985,Uncertain data/SIPRI estimate,1987-1996,4,Uncertain data/SIPRI estimate,Delivery of last embargoed between 1992 and 1995
+362,United States (US),recipient,2030,confirmed,BGM-71 TOW,Anti-tank missile,1986,confirmed,1987-1990,2030,Uncertain data/SIPRI estimate,$20 million deal; BGM-71C ITOW version
+363,United States (US),recipient,50,Uncertain data/SIPRI estimate,FIM-92 Stinger,Portable surface-to-air missile (SAM),1987,Uncertain data/SIPRI estimate,1987,50,Uncertain data/SIPRI estimate,Taken by Pakistan from US aid destined forAfghan Mujahideen
+364,United States (US),recipient,6,confirmed,Mk-15 Phalanx,Close-in weapon system (CIWS),1987,Uncertain data/SIPRI estimate,1987-1988,6,Uncertain data/SIPRI estimate,For modernization of 6 Gearing (Tariq) destroyers
+365,United States (US),recipient,20,Uncertain data/SIPRI estimate,RGM-84 Harpoon,Anti-ship missile,1987,Uncertain data/SIPRI estimate,1987-1988,20,confirmed,For modernized Gearing destroyer
+366,United States (US),recipient,360,Uncertain data/SIPRI estimate,AIM-9L/M Sidewinder,Short range air-to-air missile (SRAAM),1988,confirmed,1996,360,Uncertain data/SIPRI estimate,$20 million deal; AIM-9L version; delivery embargoed between 1992 and 1995
+367,United States (US),recipient,4,confirmed,Brooke,Frigate,1988,confirmed,1989,4,confirmed,Second-hand; 5-year lease; Pakistani designation Badr
+368,United States (US),recipient,4,confirmed,Garcia,Frigate,1988,confirmed,1989,4,confirmed,Second-hand; 5-year lease; Pakistani designation Saif Class
+369,United States (US),recipient,25,Uncertain data/SIPRI estimate,M-198 155mm,Towed gun,1988,confirmed,1989,25,Uncertain data/SIPRI estimate,Part of $40 million deal
+370,United States (US),recipient,24,confirmed,M-198 155mm,Towed gun,1988,confirmed,1996,24,confirmed,$19 million deal; delivery embargoed between 1992 and 1995
+371,United States (US),recipient,1,confirmed,Mk-15 Phalanx,Close-in weapon system (CIWS),1988,Uncertain data/SIPRI estimate,1988,1,confirmed,For modernization of 1 Country (Babur) destroyer
+372,United States (US),recipient,80,Uncertain data/SIPRI estimate,Mk-46,Anti-submarine warfare (ASW) torpedo,1988,Uncertain data/SIPRI estimate,1989,80,Uncertain data/SIPRI estimate,Probably Second-hand; for Brooke (Badr) frigates
+373,United States (US),recipient,3,confirmed,P-3C Orion Update-2.5,Anti-submarine warfare (ASW) aircraft,1988,confirmed,1996-1997,3,confirmed,$139 million deal; delivery embargoed between 1992 and 1995; P-3C Orion Update-2.75 version
+374,United States (US),recipient,44,confirmed,RGM-84 Harpoon,Anti-ship missile,1988,confirmed,1990-1991,44,Uncertain data/SIPRI estimate,For modernized Gearing (Alamgir) destroyers
+375,United States (US),recipient,75,Uncertain data/SIPRI estimate,RIM-66B Standard-1MR,Surface-to-air missile (SAM),1988,confirmed,1989,75,Uncertain data/SIPRI estimate,Probably Second-hand; for Brooke (Badr) frigates
+376,United States (US),recipient,5,confirmed,TPQ-36 Firefinder,Arty locating radar,1988,confirmed,1989,5,confirmed,
+377,United States (US),recipient,1,confirmed,Ajax,Support ship,1989,confirmed,1989,1,confirmed,Second-hand repair ship; 5-year lease; Pakistani designation Moawin Class
+378,United States (US),recipient,28,confirmed,RGM-84 Harpoon,Anti-ship missile,1990,confirmed,1996,28,Uncertain data/SIPRI estimate,$31 million deal; AGM-84A version for P-3C ASW aircraft; delivery embargoed between 1992 and 1995
+379,United States (US),recipient,4,confirmed,TPQ-36 Firefinder,Arty locating radar,1990,Uncertain data/SIPRI estimate,1996,4,Uncertain data/SIPRI estimate,Deal worth $105 million; delivery embargoed between 1992 and 1995
+380,United States (US),recipient,5,confirmed,Hughes-300/TH-55,Light helicopter,1992,Uncertain data/SIPRI estimate,1993,5,Uncertain data/SIPRI estimate,Schweizer-269C or Schweizer-300C version; for training
+381,United States (US),recipient,250,Uncertain data/SIPRI estimate,6V-53,Diesel engine,2000,Uncertain data/SIPRI estimate,2005-2006,250,Uncertain data/SIPRI estimate,For Talha APC and Al Qaswa ALV produced in Pakistan
+382,United States (US),recipient,5,confirmed,Bell-205/UH-1 Huey-2,Helicopter,2001,Uncertain data/SIPRI estimate,2002,5,confirmed,Second-hand UH-1H rebuilt to Huey-2 before delivery; part of $73 million US; for Ministry of Interior; aid for Afghan border patrol and anti-narcotics operations
+383,United States (US),recipient,3,confirmed,Cessna-208 Caravan,Light transport aircraft,2001,Uncertain data/SIPRI estimate,2002,3,Uncertain data/SIPRI estimate,For Ministry of Interior; aid for Afghan border patrol and anti-narcotics operations
+384,United States (US),recipient,100,Uncertain data/SIPRI estimate,Paveway,Guided bomb,2001,Uncertain data/SIPRI estimate,2002,100,Uncertain data/SIPRI estimate,Paveway-2 version
+385,United States (US),recipient,6,confirmed,CT-7,Turboprop,2002,confirmed,2004,6,Uncertain data/SIPRI estimate,For 3 CN-235 transport aircraft from Indonesia; CT-7-9C3 version
+386,United States (US),recipient,40,Uncertain data/SIPRI estimate,T-37B,Trainer aircraft,2003,confirmed,2009-2012,40,Uncertain data/SIPRI estimate,Second-hand; aid; possibly modernized before delivery; probably 19 more for spares
+387,United States (US),recipient,12,Uncertain data/SIPRI estimate,Bell-209/AH-1F Cobra,Combat helicopter,2004,confirmed,2007,12,Uncertain data/SIPRI estimate,Second-hand; $48 million deal (financed with 'FMF' aid); modernized before delivery; 20-28 more for spares only
+388,United States (US),recipient,26,confirmed,Bell-412,Helicopter,2004,confirmed,2004-2005,26,confirmed,Originally $230 million deal for 2 year lease but given to Pakistan in 2007 (financed with 'CSF' aid); from Canadian production line; for use in 'war on terrorism'; incl some for police; Bell-412EP version
+389,United States (US),recipient,2014,Uncertain data/SIPRI estimate,BGM-71 TOW,Anti-tank missile,2004,Uncertain data/SIPRI estimate,2006-2008,2014,Uncertain data/SIPRI estimate,$82 m deal; TOW-2A version; for AH-1 combat helicopters
+390,United States (US),recipient,6,confirmed,C-130E Hercules,Transport aircraft,2004,confirmed,2005-2007,6,Uncertain data/SIPRI estimate,Second-hand aircraft sold back to US producer and sold to Pakistan; $64 million or $76 million deal (financed with 'FMF' aid); modernized before delivery; 1 more for spares only
+391,United States (US),recipient,300,confirmed,AIM-9L/M Sidewinder,Short range air-to-air missile (SRAAM),2005,confirmed,2007,300,confirmed,$29 million deal; AIM-9M1/2 version
+392,United States (US),recipient,14,confirmed,F-16A,Fighter/ground attack (FGA) aircraft,2005,confirmed,2005-2008,14,confirmed,"Second-hand (but only used 2-4 years); originally produced for Pakistan but delivery embargoed 1988, taken over by USA 2002 and after few years given as aid to Pakistan); aid"
+393,United States (US),recipient,7,confirmed,P-3CUP Orion,Anti-submarine warfare (ASW) aircraft,2005,confirmed,2007-2012,7,confirmed,Second-hand P-3C rebuilt to P-3CUP (paid with $970 million US 'SAP' aid); first 2 delivered without complete systems (to be installed later)
+394,United States (US),recipient,50,Uncertain data/SIPRI estimate,RGM-84L Harpoon-2,Anti-ship surface-to-surface missile (SSM),2005,confirmed,2006-2007,50,Uncertain data/SIPRI estimate,$63 million deal; incl 40 AGM-84L version
+395,United States (US),recipient,6,confirmed,TPS-77,Air search radar,2005,confirmed,2008-2009,6,Uncertain data/SIPRI estimate,$89 million or $100 million deal (financed with 'FMF' aid)
+396,United States (US),recipient,500,confirmed,JDAM,Guided bomb,2006,Uncertain data/SIPRI estimate,2010-2011,500,Uncertain data/SIPRI estimate,
+397,United States (US),recipient,115,confirmed,M-109A5 155mm,Self-propelled gun,2006,confirmed,2007-2010,115,Uncertain data/SIPRI estimate,Second-hand; $87 million deal (incl $57 m 'FMF' aid)
+398,United States (US),recipient,1600,confirmed,Paveway,Guided bomb,2006,Uncertain data/SIPRI estimate,2010,1600,Uncertain data/SIPRI estimate,Incl 700 GBU-12 and 300 GBU-10 version
+399,United States (US),recipient,2,confirmed,TF-50,Gas turbine,2006,confirmed,2007-2008,2,confirmed,For MRTP-33 FAC delivered by Turkey
+400,United States (US),recipient,18,confirmed,AAQ-33 Sniper,Aircraft electro-optical (EO) system,2007,confirmed,2010,18,Uncertain data/SIPRI estimate,For F-16 combat aircraft
+401,United States (US),recipient,500,Uncertain data/SIPRI estimate,AIM-120C AMRAAM,Beyond-visual-range air-to-air missile (BVRAAM),2007,confirmed,2010-2014,500,Uncertain data/SIPRI estimate,$265 million deal; AIM-120C-5 version; for F-16 combat aircraft
+402,United States (US),recipient,200,confirmed,AIM-9L/M Sidewinder,Short range air-to-air missile (SRAAM),2007,confirmed,2010,200,Uncertain data/SIPRI estimate,AIM-9M8 and AIM-9M9 version; for F-16 combat aircraft
+403,United States (US),recipient,35,Uncertain data/SIPRI estimate,APG-68,Combat aircraft radar,2007,confirmed,2012-2014,35,Uncertain data/SIPRI estimate,APG-68(V)9 version for 'Mid-Life Update' (MLU) modernization of 35 F-16A combat aircraft to F-16C (F-16AM or F-16MLU)
+404,United States (US),recipient,4,confirmed,Bell-205/UH-1 Huey-2,Helicopter,2007,Uncertain data/SIPRI estimate,2008,4,Uncertain data/SIPRI estimate,Second-hand UH-1H rebuilt to Huey-2 before delivery; for Ministry of Interior; aid for Afghan border patrol and anti-narcotics operations
+405,United States (US),recipient,3198,confirmed,BGM-71 TOW,Anti-tank missile,2007,Uncertain data/SIPRI estimate,2008-2011,3198,Uncertain data/SIPRI estimate,$185 million deal; incl 2776 TOW-2A and 422 TOW-2RF
+406,United States (US),recipient,18,confirmed,F-16C Block-50/52,Fighter/ground attack (FGA) aircraft,2007,confirmed,2010,18,confirmed,$1.4 billion 'Peace Drive 1' deal (part of $3.1 b deal); incl 6 F-16D
+407,United States (US),recipient,10,confirmed,RGM-84L Harpoon-2,Anti-ship surface-to-surface missile (SSM),2007,confirmed,2009,10,Uncertain data/SIPRI estimate,$16 million deal; AGM-84L version; for P-3C ASW aircraft
+408,United States (US),recipient,5,confirmed,Bell-205/UH-1 Huey-2,Helicopter,2008,Uncertain data/SIPRI estimate,2009,5,confirmed,Second-hand UH-1H rebuilt to Huey-2 before delivery; for Ministry of Interior; aid for Afghan border patrol and anti-narcotics operations
+409,United States (US),recipient,2,confirmed,ISR King Air-350,Airborne ground surveillance (AGS) aircraft,2008,confirmed,2011,2,confirmed,King Air-350 version; aid
+410,United States (US),recipient,14,Uncertain data/SIPRI estimate,Bell-209/AH-1F Cobra,Combat helicopter,2009,Uncertain data/SIPRI estimate,2010,14,Uncertain data/SIPRI estimate,Second-hand
+411,United States (US),recipient,2,confirmed,Bell-412,Helicopter,2009,confirmed,2010,2,confirmed,"$23-24 million aid, Bell-412EP version"
+412,United States (US),recipient,2,Uncertain data/SIPRI estimate,DB-110,Aircraft recce system,2009,Uncertain data/SIPRI estimate,2009,2,Uncertain data/SIPRI estimate,For F-16 combat aircraft
+413,United States (US),recipient,10,confirmed,Mi-8MT/Mi-17/Hip-H,Helicopter,2009,confirmed,2009,10,confirmed,Second-hand; Mi-17 version; incl 6 on 5-year lease; aid
+414,United States (US),recipient,1,confirmed,RH-800RA/SIG,Reconnaissance aircraft,2009,confirmed,2010,1,confirmed,Hawker-850XP version
+415,United States (US),recipient,20,confirmed,Cougar,Armoured patrol vehicle (APV),2010,confirmed,2010,20,Uncertain data/SIPRI estimate,Buffalo EOD version; aid
+416,United States (US),recipient,550,Uncertain data/SIPRI estimate,M-113,Armoured patrol vehicle (APV),2010,Uncertain data/SIPRI estimate,2011-2014,369,Uncertain data/SIPRI estimate,Second-hand; M-113A2 version; aid
+417,United States (US),recipient,1,confirmed,Perry,Frigate,2010,confirmed,2011,1,confirmed,Second-hand; aid; modernized in $65 m deal before delivery
+418,United States (US),recipient,10,Uncertain data/SIPRI estimate,APG-68,Combat aircraft radar,2011,Uncertain data/SIPRI estimate,2014,10,Uncertain data/SIPRI estimate,APG-68(V)9 version for 'Mid-Life Update' (MLU) modernization of 10 F-16A combat aircraft to F-16C (F-16AM or F-16MLU)
+419,United States (US),recipient,5,confirmed,DB-110,Aircraft recce system,2011,confirmed,2013,5,Uncertain data/SIPRI estimate,Part of $72million deal; for F-16 combat aircraft
+420,United States (US),recipient,2,confirmed,ISR King Air-350,Airborne ground surveillance (AGS) aircraft,2011,Uncertain data/SIPRI estimate,2013,2,confirmed,King Air-350 ISR version; aid
+421,United States (US),recipient,1,Uncertain data/SIPRI estimate,King Air,Light transport aircraft,2013,Uncertain data/SIPRI estimate,2013,1,confirmed,Second-hand; King Air-350i version
+422,United States (US),recipient,22,confirmed,MaxxPro,Armoured patrol vehicle (APV),2013,confirmed,2013,22,Uncertain data/SIPRI estimate,Aid
